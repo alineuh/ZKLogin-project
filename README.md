@@ -31,19 +31,20 @@ zkp-project/
 
 ### Exercise 2: Graph 3-Coloring ZK Proof (11 points)
 - [x] Analyze soundness error (2a)
-- [ ] Find the bug in the implementation (2b)
-- [ ] Describe the view difference (2c)
-- [ ] Implement malicious verifier (2d)
-- [ ] Fix the implementation (2e)
-- [ ] Add Merkle tree optimization (2f)
+- [x] Find the bug in the implementation (2b)
+- [x] Describe the view difference (2c)
+- [x] Implement malicious verifier (2d)
+- [x] Fix the implementation (2e)
+- [x] Add Merkle tree optimization (2f)
 
 ### Exercise 3: Electronic Voting (11 points)
-- [ ] Implement Schnorr signatures (3a)
-- [ ] Implement ElGamal encryption (3b)
-- [ ] Implement vote casting with proof (3c)
-- [ ] Implement vote aggregation (3d)
-- [ ] Implement result decryption with proof (3e)
-- [ ] Implement full simulation (3f)
+- [x] Implement Schnorr signatures (3a)
+- [x] Implement ElGamal encryption (3b)
+- [x] Implement vote casting with proof (3c)
+- [x] Implement vote aggregation (3d)
+- [x] Implement result decryption with proof (3e)
+- [x] Implement full simulation (3f)
+      
 
 ## 🐛 Bug Found in Exercise 2
 
