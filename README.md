@@ -2,7 +2,7 @@
 
 **Course:** Zero-Knowledge Proofs  
 **Date:** January 2026  
-**Authors:** Aline SPANO
+**Author:** Aline SPANO [GitHub Profile](https://github.com/alineuh)
 
 ## 📋 Project Structure
 
