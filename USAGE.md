@@ -256,5 +256,3 @@ For questions about running the code, please refer to:
 - Exercise 2 documentation: `docs/exercise2_solutions.md`
 - Exercise 3 documentation: `docs/exercise3_solutions.md`
 - Course materials and lecture notes
-
-Good luck! 🎉
